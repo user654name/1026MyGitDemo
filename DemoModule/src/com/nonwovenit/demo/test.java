@@ -1,8 +1,8 @@
-package cn.itcast;
+package com.nonwovenit.demo;
 
 /**
  * @author aojie.dai
- * @Title: cn.itcast.test
+ * @Title: com.nonwovenit.demo.test
  * @ProjectName 1026MyGitDemo
  * @Description: 测试
  * @date 2018/10/26
